@@ -1,2 +1,1 @@
-18.vehicle[[:space:]]detection/yolov3-tf2/yolo_model.h5 filter=lfs diff=lfs merge=lfs -text
-18.vehicle[[:space:]]detection/yolov3-tf2/checkpoints/yolov3.tf.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+18.vehicle[[:space:]]detection/model_data/yolo_model.h5 filter=lfs diff=lfs merge=lfs -text
