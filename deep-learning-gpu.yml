@@ -1,0 +1,8 @@
+name: deep-learning-gpu
+
+dependencies:
+  - opencv=4.5.3
+  - tensorflow==2.6.0=cuda112py37h3e4f0e2_2
+  - ipykernel
+  - matplotlib
+  - pydot
