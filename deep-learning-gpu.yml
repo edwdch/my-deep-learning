@@ -6,3 +6,4 @@ dependencies:
   - ipykernel
   - matplotlib
   - pydot
+  - imageio
